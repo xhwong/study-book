@@ -1,4 +1,3 @@
-[toc]
 
 
 ### 一、Mybatis架构划分
@@ -40,5 +39,5 @@
 
 ### 参考资料
 + 《Mybatis技术内幕》
-+ [https://mybatis.org/mybatis-3/zh/index.html](https://mybatis.org/mybatis-3/zh/index.html)
++ [官网文档](https://mybatis.org/mybatis-3/zh/index.html)
 
